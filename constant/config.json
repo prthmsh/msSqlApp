@@ -1,0 +1,8 @@
+{
+  "db": {
+    "user": "sa",
+    "password": "sysboss@123",
+    "server": "localhost",
+    "database": "db"
+  }
+}
